@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kla-trackunit
 - 👀 I’m interested in all sorts of stuff
-- 🌱 I’m currently learning WebRTC and Canvas/WebGL
 
 <!---
 kla-trackunit/kla-trackunit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
